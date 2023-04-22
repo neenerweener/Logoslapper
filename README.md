@@ -1,5 +1,8 @@
 # Logoslapper
 
+Download link https://github.com/neenerweener/Logoslapper/archive/refs/heads/main.zip
+
+
 This script is dependant on imagemagick.
 
 Here are the steppies to make this script work
